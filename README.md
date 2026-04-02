@@ -1,2 +1,16 @@
 # ikojjdsi8.github.io
-Privacy Policy  This app is a personal educational project created to study Pinterest API in Postman.  How data is used: - only for educational testing in Postman - not sold, shared, or transferred to third parties  Contact: nadyashumiloo21@gmail.com
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pinterest Account Insights Tool</title>
+</head>
+<body>
+  <h1>Pinterest Account Insights Tool</h1>
+  <p>Personal reporting and account insights tool for my own Pinterest business account.</p>
+  <p>This project is used to authenticate with Pinterest, read authorized account data, and test API requests in Postman for internal and educational use.</p>
+  <p><a href="/privacy-policy.html">Privacy Policy</a></p>
+  <p>Contact: nadyashumiloo21@gmail.com</p>
+</body>
+</html>
