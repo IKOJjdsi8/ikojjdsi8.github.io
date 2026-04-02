@@ -9,8 +9,4 @@
 <body>
   <h1>Pinterest Account Insights Tool</h1>
   <p>Personal reporting and account insights tool for my own Pinterest business account.</p>
-  <p>This project is used to authenticate with Pinterest, read authorized account data, and test API requests in Postman for internal and educational use.</p>
-  <p><a href="/privacy-policy.html">Privacy Policy</a></p>
-  <p>Contact: nadyashumiloo21@gmail.com</p>
-</body>
-</html>
+
